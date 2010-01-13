@@ -1,0 +1,5 @@
+cybozu_url: https://yourdomain/cgi-bin/cbgrn/grn.exe/schedule/personal/export1?
+calname: cybozu
+username: your_id
+password: your_password
+date_range: 90
